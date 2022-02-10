@@ -3,16 +3,32 @@
 # Description:
 Machine Learning is not only successful in business but also helping the healthcare industry and revolutionizing it. Here, we are presenting a very simple machine learning model to predict that during an ask to donate blood who will respond positively and will donate blood.
 
+# Blood Donation Machine Learning Model:
+![image](https://user-images.githubusercontent.com/72962695/153356856-22eea5c7-3639-4f1c-b24b-fe3f5495d3b3.png)
+
+# Blood Donation Prediction Dataset:
+![image](https://user-images.githubusercontent.com/72962695/153357014-743177be-9c8d-4a68-a956-e247ff569545.png)
+
+# Trained Model:
+![image](https://user-images.githubusercontent.com/72962695/153357259-9d05df08-6a61-4686-9e46-9283a58f2a1d.png)
+
+# Score Model:
+![image](https://user-images.githubusercontent.com/72962695/153357418-e319c2f5-6a6d-4e58-b60d-24e63dddcd56.png)
+
+# Evaluate Model:
+![image](https://user-images.githubusercontent.com/72962695/153357580-976a0ea3-5306-482f-92fe-578a3dfd5970.png)
+
+
 # DETAILED DESCRIPTION
 Create Project/Experiment and import movie rating data set from saved dataset samples. After creating experiment, we need to drag and drop the required modules in canvas.
 
 I have used the below modules for my experiment in the given order
 
- DATA SET:
+DATA SET:
  
    Data set required for experiment is added
    
- Blood Donation :
+Blood Donation :
  
    This data set consists of blood banks and blood donors.
    
